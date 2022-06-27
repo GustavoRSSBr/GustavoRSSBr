@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou estudando front-end e back-end.
 - 🌱 Aprendendo as linguagens: Java, JavaScript, HTML, CSS e React.
-- 💻 Atualmente estou em busca de uma oportunidade na área de desenvolvedor. 
+- 💻 Estou em busca de uma oportunidade na área de desenvolvedor. 
 
 <div align="center">
   <a href="https://github.com/GustavoRSSBr">
