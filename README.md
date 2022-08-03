@@ -1,7 +1,7 @@
 ### Olá! sou o Gustavo, estudante de Análise e Desenvolvimento de Sistemas👋
 
 - 🔭 Atualmente estou estudando front-end.
-- 🌱 Aprendendo as linguagens: Java, JavaScript, HTML, CSS e React.
+- 🌱 Aprendendo as linguagens: JavaScript, HTML, CSS e React.
 - 💻 Estou em busca de uma oportunidade na área de desenvolvedor front-End. 
 
 <div align="center">
