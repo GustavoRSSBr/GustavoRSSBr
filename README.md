@@ -1,8 +1,7 @@
 ### Olá! sou o Gustavo, estudante de Análise e Desenvolvimento de Sistemas👋
 
 - 🔭 Atualmente estou estudando back-end.
-- 🌱 Aprendendo as linguagens: Java, HTML/CSS e SQL server.
-- 💻 Estou em busca de uma oportunidade como desenvolvedor JAVA.
+- 🚀 Foco em melhoria continua!
 
 <div align="center">
   <a href="https://github.com/GustavoRSSBr">
