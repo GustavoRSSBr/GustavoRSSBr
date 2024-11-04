@@ -1,4 +1,4 @@
-### Olá! sou o Gustavo, estudante de Análise e Desenvolvimento de Sistemas👋
+### Olá! sou o Gustavo, Desenvolvedor de Sistemas👋
 
 - 🔭 Atualmente estou estudando back-end.
 - 🚀 Foco em melhoria continua!
